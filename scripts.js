@@ -10,4 +10,4 @@ function subtract( x ) {
 	return x - 4;
 }
 
-console.log(add(multiply(subtract())));
+console.log(add(multiply(subtract(100))));
